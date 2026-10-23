@@ -37,11 +37,11 @@ The resume focuses on my interests in web development, IT support, and Linux sys
 
 ## GitHub Repository
 
-https://github.com/havicfire96/resume
+https://github.com/mar2391688-/resume
 
 ## Live Website
 
-https://havicfire96.github.io/resume/
+https://mar2391688-.github.io/resume/
 
 ## Validation and Accessibility
 
