@@ -34,14 +34,13 @@ The resume focuses on my interests in web development, IT support, and Linux sys
 - `index.html` – Main resume webpage
 - `style.css` – Stylesheet for the website
 - `README.md` – Project documentation
-
 ## GitHub Repository
 
-https://github.com/mar2391688-/resume
+https://github.com/mar2391688-lgtm/resume
 
 ## Live Website
 
-https://mar2391688-.github.io/resume/
+https://mar2391688-lgtm.github.io/resume/
 
 ## Validation and Accessibility
 
